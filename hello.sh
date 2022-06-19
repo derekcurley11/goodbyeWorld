@@ -1,5 +1,6 @@
 #!/bin/bash
 # declare STRING variable
-STRING="Goodbye World. farts."
+STRING="Thanks for pooping."
+STRING2="You're welcome."
 # print variable on a screen
-echo $STRING
+echo $STRING$"FARTS"$STRING2
